@@ -10,7 +10,7 @@ WHITE = (255, 255, 255)
 
 # Create the Pygame screen
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Beautiful Gradient Design")
+pygame.display.set_caption("Beautiful Volcanic Gradient Design")
 
 # Main game loop
 while True:
